@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Generate checksum of a file with the SHA256 algorithm" 
 author = ["Devdutt Shenoi<devdutt@outlook.in>"]
+repository = "https://github.com/de-sh/sha256sum"
 license-file = "LICENSE"
 
 [dependencies]
