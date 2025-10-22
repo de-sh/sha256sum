@@ -1,6 +1,6 @@
 [package]
 name = "sha256sum"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Generate checksum of a file with the SHA256 algorithm" 
 author = ["Devdutt Shenoi<devdutt@outlook.in>"]
